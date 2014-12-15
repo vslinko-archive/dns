@@ -1,0 +1,3 @@
+a("vpn", "178.62.231.37")
+a("youtrack", "128.199.61.156")
+yandex_mail(_a, "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD2oHDXZO0hSpgbuk37T3/7zfm2Xr2s1O+dqD6D1J0YW1vwidRnccJob95lu2f1a6mBi4kWclcQbP3OWqMlB3skuvIhlrC3ttwe3njIAkkb/gMih/EwPG87yn8WoqewiYpVwfBxudcSZL8OS6MpafFJAXGV2B49xPHaArUD5EF2RwIDAQAB")
